@@ -4,3 +4,4 @@ cool game
 # Use
 # Screenshot
 <img src="Screenshot_٢٠٢٠١٠٢٨-٠٢٢٠٢٢.png" width="%100">
+<img src="Screenshot_٢٠٢٠١٠٢٨-٠٢٢٠٣٥.png" width="%100">
